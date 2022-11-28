@@ -7,7 +7,7 @@ Write a script to build a newsfeed report. The report should be in two parts:
 Text with information about the values of key metrics for the previous day
 Graph with metric values for the previous 7 days
 Display the following key metrics in the report:
-DAU
-Views
-Likes
-CTR
+- DAU
+- Views
+- Likes
+- CTR
