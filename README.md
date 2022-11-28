@@ -1,4 +1,4 @@
-# Telegram_bot
+# Telegram_bot_1
 Creating a Telegram bot which will be sending the information about key product metrics each day
 
 Description of the project
@@ -11,3 +11,11 @@ Display the following key metrics in the report:
 - Views
 - Likes
 - CTR
+
+# Telegram_bot_2
+Application report
+Gather a single report on the operation of the entire application. The report should contain information about both the news feed and the messaging service.
+
+Think about what metrics you want to display in this report? How can you show their dynamics? Attach graphics or files to the report to make it more visual and informative. The report should not be just a set of graphs or text, but should help the business answer questions about the operation of the entire application in aggregate.
+
+Automate your report submission with Airflow.
